@@ -1,0 +1,3 @@
+[submodule "hwcore/modules/js/src/kernel"]
+	path = hwcore/modules/js/src/kernel
+	url = https://github.com/HW-Core/js-kernel.git
